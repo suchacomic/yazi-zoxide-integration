@@ -8,4 +8,4 @@ When exiting yazi the current working directory is changed to the one that was o
 Install the zsh plugin using your favorite plugin manager or source the file in your .zshrc config.
 
 # History
-This is shamelessly/efficiently copied from [yazi quickstart quide](https://yazi-rs.github.io/docs/quick-start) and [yzai-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh) which was borrowed [ranger-zoxide](https://github.com/fdw/ranger-zoxide), which was also just an interation of [ranger-autojump](https://github.com/fdw/ranger-autojump).
+This is shamelessly/efficiently copied from [yazi quickstart quide](https://yazi-rs.github.io/docs/quick-start) and [yazi-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh) which was borrowed [ranger-zoxide](https://github.com/fdw/ranger-zoxide), which was also just an interation of [ranger-autojump](https://github.com/fdw/ranger-autojump).
